@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testapp_jar</output-path>
+    <root id="archive" name="testapp.jar">
+      <element id="module-output" name="testapp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/postgresql/postgresql/9.1-901-1.jdbc4/postgresql-9.1-901-1.jdbc4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
